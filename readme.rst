@@ -1,8 +1,12 @@
-# O que é o sLocator
+###################
+O que é o sLocator
+###################
 
 sLocator é uma plataforma de inserção de CEPs e logradouros colaborativa, após o cadastro de usuário "comum" é possível enviar uma solicitação de cep para ser adicionado na base de dados. Com o usuário "administrador" você poderá aprovar os CEPs adicionados por usuários e enviá-los permanentemente para a base de dados, assim como tornar usuários administradores e remove-los.
 
-## Os recursos do sLocator são:
+*******************
+Os recursos do sLocator são:
+*******************
 
 - Criação de usuário (admin ou comum)
 - Autenticação
